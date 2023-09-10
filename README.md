@@ -1,4 +1,3 @@
-# Railway Data analysis
 ## Data Modelling
 ## Design Calendar Dimension
 ### Designing of Measures:
