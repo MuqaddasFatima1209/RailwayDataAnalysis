@@ -16,4 +16,4 @@ Satisfaction by Train Type
 6. Bar Chart (Satisfaction by train type)
 7. Filter (Period)
 
-![alt text](Railway Analytics.png)
+![alt text](Image/Railway Analytics.png)
